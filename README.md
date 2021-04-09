@@ -1,2 +1,2 @@
 # MyResume
-This is a reop containing my resume
+This is a repo containing my resume
