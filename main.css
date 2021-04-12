@@ -168,7 +168,7 @@ main {
     transform: scale(0.95);
 }
 
-@media (max-width: 375px) {
+@media (max-width: 475px) {
     .container {
         height: 100vh;
     }
